@@ -2,7 +2,6 @@
 
 Aplicación web para explorar obras de arte del [Art Institute of Chicago](https://www.artic.edu/). Permite navegar la colección completa, buscar obras por palabra clave y explorar por tipo de obra (pintura, escultura y fotografía).
 
- **Demo:** https://karenm-git.github.io/my-art-gallery-frontend
 
 > ⚠️ **Nota sobre las imágenes:** el servidor de imágenes del museo (`www.artic.edu/iiif`) bloquea actualmente la carga de sus imágenes desde otros sitios (error `ERR_BLOCKED_BY_RESPONSE.NotSameOrigin`). Esto depende del servidor del museo y no del código de este proyecto, por lo que en la versión desplegada las imágenes de las obras pueden no mostrarse.
 
